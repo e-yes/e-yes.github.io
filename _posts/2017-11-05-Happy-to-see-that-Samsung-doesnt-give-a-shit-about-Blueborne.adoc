@@ -4,7 +4,7 @@
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
-= "Happy" to see that Samsung doesn't give a shit about BlueBorne.
+= "Happy" to see that Samsung doesn't give a shit about Blueborne.
 
 :hp-tags: Samsung, J7, BlueBorne
 `
